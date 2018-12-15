@@ -1,1 +1,1 @@
-# -ducational-management-system
+# Educational-management-system
